@@ -1,4 +1,4 @@
-# Training: GeoNode
+# Training: GeoNode Use and Administration
 ### Content
 * Introduction
     * Overview of architecture
